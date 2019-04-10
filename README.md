@@ -19,7 +19,7 @@ For reference, Gross Amount is calculated as follows:
 - No actual database implementation is required, feel free to stub it out.
 - Your code should trend towards being SOLID.
 - Please download the [code](https://github.com/Applicita/Test-Software-Engineer-AspNetMVC), complete the tasks as you see fit.
-- Send us a Dropbox/Skydrive/whatever link to your zipped code to info@applicita.com or attach a zip file directly to the email.
+- Send us a Dropbox/Skydrive/whatever link to your zipped code to gallegoscassie3@gmail.com or attach a zip file directly to the email.
 - Please don't spend too long on this test; 120 minutes at most.
 
 ## Extra Credit
